@@ -21,6 +21,7 @@ var t2=document.getElementById('passing2');
 //2つ目のボタンの名前
 t2.addEventListener('click',function(){
 firstClick=true;
+//元に戻して振り出しに戻る
 document.aho.src="img/20191106220049.png";
 aho.style.height='800px';
 aho.style.width='500px';
