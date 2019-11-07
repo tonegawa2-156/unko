@@ -27,3 +27,4 @@ aho.style.height='800px';
 aho.style.width='500px';
 },false);
 //２つ目のボタン(元に戻す)
+//家家家々家々遺影家々イエイエエイ
